@@ -1,0 +1,39 @@
+﻿  Player.cpp
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(5,12): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(6,15): warning C4244: 'initializing': conversion from 'const float' to 'int', possible loss of data
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(21,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(21,29): warning C4244:         with
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(21,29): warning C4244:         [
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(21,29): warning C4244:             T=float
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(21,29): warning C4244:         ]
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(22,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(22,30): warning C4244:         with
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(22,30): warning C4244:         [
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(22,30): warning C4244:             T=float
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(22,30): warning C4244:         ]
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(39,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(40,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(140,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(140,32): warning C4244:         with
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(140,32): warning C4244:         [
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(140,32): warning C4244:             T=float
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(140,32): warning C4244:         ]
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(144,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(144,31): warning C4244:         with
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(144,31): warning C4244:         [
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(144,31): warning C4244:             T=float
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(144,31): warning C4244:         ]
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(148,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(148,33): warning C4244:         with
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(148,33): warning C4244:         [
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(148,33): warning C4244:             T=float
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(148,33): warning C4244:         ]
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(152,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(152,30): warning C4244:         with
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(152,30): warning C4244:         [
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(152,30): warning C4244:             T=float
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(152,30): warning C4244:         ]
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(155,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(164,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\GITKRAKEN\Assessment 3\Zombieshooter\Zombieshooter\Player.cpp(169,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Zombieshooter.vcxproj -> F:\GITKRAKEN\Assessment 3\Zombieshooter\Debug\Zombieshooter.exe
