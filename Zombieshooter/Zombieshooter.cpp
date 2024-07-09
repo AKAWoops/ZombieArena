@@ -4,10 +4,7 @@
 #include "Player.h"
 
 using namespace sf;
-//test tes test test test
-//test tes test test test
-//test tes test test test
-//test tes test test test
+
 int main()
 {
 	// this game has 4 states and will be in one fo four states
