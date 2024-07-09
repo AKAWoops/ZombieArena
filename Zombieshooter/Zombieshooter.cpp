@@ -13,7 +13,7 @@ int main()
 		PAUSED, LEVELING_UP,
 		GAME_OVER, PLAYING
 	};
-
+	//hello
 	// start with the GAME_OVER state
 	State state = State::GAME_OVER;
 	// Get the screen resolution and
