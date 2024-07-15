@@ -133,13 +133,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="createBackGround.cpp" />
+    <ClCompile Include="CreateHorde.cpp" />
     <ClCompile Include="Player.cpp" />
-    <ClCompile Include="Zombieshooter.cpp" />
+    <ClCompile Include="TextureHolder.cpp" />
+    <ClCompile Include="Zombie.cpp" />
+    <ClCompile Include="ZombieArena.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Player.h" />
     <ClInclude Include="TextureHolder.h" />
-    <ClInclude Include="Zombieshooter.h" />
+    <ClInclude Include="Zombie.h" />
+    <ClInclude Include="ZombieArena.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
