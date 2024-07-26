@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "F:\\GITKRAKEN\\ZombieArena\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|solutionrelative:Zombieshooter\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|solutionrelative:Zombieshooter\\Bullet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\TextureHolder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|solutionrelative:Zombieshooter\\TextureHolder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,20 +19,20 @@
       "RelativeMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|solutionrelative:Zombieshooter\\TextureHolder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Zombieshooter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|solutionrelative:Zombieshooter\\Zombieshooter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|solutionrelative:Zombieshooter\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Zombieshooter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|solutionrelative:Zombieshooter\\Zombieshooter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{359A06B0-6222-416E-9153-B822C56314F9}|Zombieshooter\\Zombieshooter.vcxproj|solutionrelative:Zombieshooter\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Zombieshooter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Zombieshooter\\Zombieshooter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Zombieshooter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Zombieshooter\\Zombieshooter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,19 +47,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bullet.cpp",
+              "DocumentMoniker": "F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Bullet.cpp",
+              "RelativeDocumentMoniker": "Zombieshooter\\Bullet.cpp",
+              "ToolTip": "F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Bullet.cpp",
+              "RelativeToolTip": "Zombieshooter\\Bullet.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-26T14:42:32.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bullet.h",
+              "DocumentMoniker": "F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Bullet.h",
+              "RelativeDocumentMoniker": "Zombieshooter\\Bullet.h",
+              "ToolTip": "F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Bullet.h",
+              "RelativeToolTip": "Zombieshooter\\Bullet.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-26T14:32:12.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TextureHolder.cpp",
               "DocumentMoniker": "F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\TextureHolder.cpp",
               "RelativeDocumentMoniker": "Zombieshooter\\TextureHolder.cpp",
               "ToolTip": "F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\TextureHolder.cpp",
               "RelativeToolTip": "Zombieshooter\\TextureHolder.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-15T11:33:09.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TextureHolder.h",
               "DocumentMoniker": "F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\TextureHolder.h",
               "RelativeDocumentMoniker": "Zombieshooter\\TextureHolder.h",
@@ -59,12 +93,11 @@
               "RelativeToolTip": "Zombieshooter\\TextureHolder.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-10T06:49:00.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T06:49:00.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Zombieshooter.h",
               "DocumentMoniker": "F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Zombieshooter.h",
               "RelativeDocumentMoniker": "Zombieshooter\\Zombieshooter.h",
@@ -76,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Zombieshooter.cpp",
               "DocumentMoniker": "F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Zombieshooter.cpp",
               "RelativeDocumentMoniker": "Zombieshooter\\Zombieshooter.cpp",
@@ -88,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Player.h",
               "DocumentMoniker": "F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\Player.h",
               "RelativeDocumentMoniker": "Zombieshooter\\Player.h",
