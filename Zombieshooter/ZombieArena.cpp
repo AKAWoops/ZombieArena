@@ -1,6 +1,8 @@
 #include "ZombieArena.h"
 
 #include <SFML/Graphics.hpp>
+
+#include "Bullet.h"
 #include "Player.h"
 #include "TextureHolder.h"
 
@@ -59,7 +61,16 @@ int main()
 	// Prepare for a horde of zombies
 	int numZombies;
 	int numZombiesAlive;
-	Zombie* zombies = nullptr;
+	Zombie* zombies = NULL;
+	// 100 bullets should do
+	Bullet bullets[100];
+	int currentBullet = 0;
+	int bulletSpare = 24;
+	int bulletsInClip = 6;
+	int clipSize = 6;
+	float fireRate = 1;
+	// when was is the fire buttoion last pressed
+	Time lastPressed;
 
 	// ==== THE MAIN GAME LOOP ==== //
 	while (window.isOpen())
@@ -98,6 +109,27 @@ int main()
 				}
 				if (state == State::PLAYING)
 				{
+					// Reloading //
+					if (event.key.code == Keyboard::R)
+					{
+						if (bulletSpare >= clipSize)
+						{
+							// plenty of bullets... reload
+							bulletsInClip = clipSize;
+							bulletSpare -= clipSize;
+						}
+						else if (bulletSpare > 0)
+						{
+							// Only few bullets left
+							bulletsInClip = bulletSpare;
+							bulletSpare = 0;
+						}
+						else
+						{
+							/// more to come need to think :-)
+						}
+					}
+
 				}
 			}
 		}// End of event polling

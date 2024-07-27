@@ -47,3 +47,33 @@ void Bullet::shoot(float startX, float startY, float TargetX, float TargetY)
 	// Position the bullet ready to be drawn
 	m_BulletShape.setPosition(m_Position);
 }
+
+void Bullet::stop()
+{
+	m_Inflight = false;
+}
+bool Bullet::isInFlight()
+{
+	return m_Inflight;
+}
+FloatRect Bullet::getPosition()
+{
+	return m_BulletShape.getGlobalBounds();
+}
+RectangleShape Bullet::getShape()
+{
+	return m_BulletShape;
+}
+void Bullet::update(float elapsedTime)
+{
+	// Update the bullet position variables
+	m_Position.x += m_BulletDistanceX * elapsedTime;
+	m_Position.y += m_BulletDistanceY * elapsedTime;
+	// move the bullet
+	m_BulletShape.setPosition((m_Position);
+	// has the bullet gone out of range?
+	if (m_Position.x < m_MinX || m_Position.x > m_MaxX || m_Position.y < m_MinY || m_Position.y > m_MaxY)
+	{
+		m_Inflight = false;
+	}
+}
