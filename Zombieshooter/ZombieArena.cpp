@@ -82,7 +82,9 @@ int main()
 	// Create a couple of pickups
 	Pickup healthPickup(1);
 	Pickup ammoPickup(2);
-
+	// About the game menu for score and stuff
+	int score = 0;
+	int hiScore = 0;
 	// ==== THE MAIN GAME LOOP ==== //
 	while (window.isOpen())
 	{
@@ -324,6 +326,82 @@ int main()
 			// update the pickups
 			healthPickup.update(dtAsSeconds);
 			ammoPickup.update(dtAsSeconds);
+			/*
+			***********************
+			**COLLISION DETECTION**
+			***********************
+			*/
+			//have any zombies been shot???
+			for (int i = 0; i < 100; i++)
+			{
+				for (int j = 0; j < numZombies; j++)
+				{
+					if (bullets[i].isInFlight() &&
+						zombies[j].isAlive())
+					{
+						if (bullets[i].getPosition().intersects
+						(zombies[j].getPosition()))
+						{
+							// stop the bullet
+							bullets[i].stop();
+							// register the hit and see if it was a kill
+							if (zombies[j].hit())
+							{
+								// not just a  hit but a kill too
+								score += 10;
+								if (score >= hiScore)
+								{
+									hiScore = score;
+								}
+								numZombiesAlive--;
+								// when all the zombies are dead (again)
+								if (numZombiesAlive == 0)
+								{
+									state = State::LEVELING_UP;
+								}
+							}
+						}
+					}
+				}
+			}// end zombies being shot
+			/*
+			 *********************
+			 *COLLISION DETECTION*
+			 *********************
+			 */
+			// have any zombies touched a player
+			for (int i = 0; i < numZombies; i++)
+			{
+				if (player.getPosition().intersects
+				(zombies[i].getPosition()) && zombies[i].isAlive())
+				{
+					if (player.hit(gameTimeTotal))
+					{
+						// add shit here later
+					}
+					if (player.getHealth() <= 0)
+					{
+						state = State::GAME_OVER;
+					}
+				}
+			}// End player touched
+			/*
+			 *********************
+			 *COLLISION DETECTION*ammo and health collision
+			 *********************
+			 */
+			// has the player touched health pickup
+			if (player.getPosition().intersects
+			(healthPickup.getPosition()) && healthPickup.isSpawned())
+			{
+				player.increaseHealthLevel(healthPickup.gotIt());
+			}
+			// Has the player touched ammo pick up
+			if (player.getPosition().intersects
+			(ammoPickup.getPosition()) && ammoPickup.isSpawned())
+			{
+				bulletSpare += ammoPickup.gotIt();
+			}
 		}// End of updating SCENE
 
 		// -== Scene Draw ==- //

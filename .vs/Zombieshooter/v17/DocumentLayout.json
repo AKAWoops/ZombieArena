@@ -62,8 +62,7 @@
               "RelativeToolTip": "Zombieshooter\\Pickup.cpp",
               "ViewState": "AQIAAEkAAAAAAAAAAADwv2IAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-27T08:59:30.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T08:59:30.466Z"
             },
             {
               "$type": "Document",
@@ -75,8 +74,7 @@
               "RelativeToolTip": "Zombieshooter\\Pickup.h",
               "ViewState": "AQIAACQAAAAAAAAAAAAAABUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-27T08:36:14.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T08:36:14.307Z"
             },
             {
               "$type": "Document",
@@ -88,8 +86,7 @@
               "RelativeToolTip": "Zombieshooter\\Zombie.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-27T01:46:11.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T01:46:11.852Z"
             },
             {
               "$type": "Document",
@@ -99,7 +96,7 @@
               "RelativeDocumentMoniker": "Zombieshooter\\ZombieArena.cpp",
               "ToolTip": "F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\ZombieArena.cpp",
               "RelativeToolTip": "Zombieshooter\\ZombieArena.cpp",
-              "ViewState": "AQIAAFIBAAAAAAAAAAAuwGkBAAAeAAAA",
+              "ViewState": "AQIAAGEBAAAAAAAAAAAAAJQBAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-27T01:45:47.365Z",
               "EditorCaption": ""
