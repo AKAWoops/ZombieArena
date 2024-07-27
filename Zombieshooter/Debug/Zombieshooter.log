@@ -1,2 +1,31 @@
 ﻿  Bullet.cpp
+  Pickup.cpp
+F:\GITKRAKEN\ZombieArena\Zombieshooter\Pickup.cpp(22,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+F:\GITKRAKEN\ZombieArena\Zombieshooter\Pickup.cpp(23,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+F:\GITKRAKEN\ZombieArena\Zombieshooter\Pickup.cpp(43,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\GITKRAKEN\ZombieArena\Zombieshooter\Pickup.cpp(43,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\GITKRAKEN\ZombieArena\Zombieshooter\Pickup.cpp(91,34): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+F:\GITKRAKEN\ZombieArena\Zombieshooter\Pickup.cpp(95,32): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ZombieArena.cpp
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(27,30): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(27,30): warning C4244:         with
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(27,30): warning C4244:         [
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(27,30): warning C4244:             T=float
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(27,30): warning C4244:         ]
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(29,30): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(29,30): warning C4244:         with
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(29,30): warning C4244:         [
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(29,30): warning C4244:             T=float
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(29,30): warning C4244:         ]
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(31,37): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(31,37): warning C4244:         with
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(31,37): warning C4244:         [
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(31,37): warning C4244:             T=float
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(31,37): warning C4244:         ]
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(31,23): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(31,23): warning C4244:         with
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(31,23): warning C4244:         [
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(31,23): warning C4244:             T=float
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(31,23): warning C4244:         ]
+  Generating Code...
   Zombieshooter.vcxproj -> F:\GITKRAKEN\ZombieArena\Debug\Zombieshooter.exe

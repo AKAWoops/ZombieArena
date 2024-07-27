@@ -18,6 +18,8 @@ private:
 	// The arena it exists in
 	IntRect m_Arena;
 	// How much is this pickup worth?
+	int m_Value;
+	// what type of pick up is this?
 	// 1 = health, 2 = ammo
 	int m_Type;
 	// Handle spawning and disappearing
@@ -29,5 +31,20 @@ private:
 
 	// public prototype variables go here later thinking of what to put in
 public:
-
+	Pickup(int type);
+	// Prepare a new pickup
+	void setArena(IntRect arena);
+	void spawn();
+	// Check the position of a pickup
+	FloatRect getPosition();
+	// Get the sprite for drawing
+	Sprite getSprite();
+	// let the pickup update itself each frame
+	void update(float elapsedTime);
+	// Is this pickup currently spawned?
+	bool isSpawned();
+	// Get the goodness from the pickup
+	int gotIt();
+	// Upgrade the value of each pickup
+	void upgrade();
 };
