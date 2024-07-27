@@ -54,8 +54,7 @@
               "RelativeToolTip": "Zombieshooter\\Zombie.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-27T01:46:11.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T01:46:11.852Z"
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "Zombieshooter\\ZombieArena.cpp",
               "ToolTip": "F:\\GITKRAKEN\\ZombieArena\\Zombieshooter\\ZombieArena.cpp",
               "RelativeToolTip": "Zombieshooter\\ZombieArena.cpp",
-              "ViewState": "AQIAAGoAAAAAAAAAAADwv38AAAAHAAAA",
+              "ViewState": "AQIAALYAAAAAAAAAAADwv8cAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-27T01:45:47.365Z",
               "EditorCaption": ""
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Zombieshooter\\Bullet.cpp",
               "ViewState": "AQIAADgAAAAAAAAAAADwv04AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-26T14:42:32.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T14:42:32.768Z"
             },
             {
               "$type": "Document",
@@ -93,8 +91,7 @@
               "RelativeToolTip": "Zombieshooter\\Bullet.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-26T14:32:12.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T14:32:12.194Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Zombieshooter\\TextureHolder.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-15T11:33:09.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T11:33:09.75Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "Zombieshooter\\TextureHolder.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-10T06:49:00.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T06:49:00.214Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "Zombieshooter\\Player.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-08T23:50:26.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-08T23:50:26.019Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "Zombieshooter\\Player.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-09T00:17:35.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T00:17:35.184Z"
             }
           ]
         }

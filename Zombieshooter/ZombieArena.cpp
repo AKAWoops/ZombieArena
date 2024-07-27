@@ -129,7 +129,6 @@ int main()
 							/// more to come need to think :-)
 						}
 					}
-
 				}
 			}
 		}// End of event polling
@@ -175,8 +174,31 @@ int main()
 			{
 				player.stopRight();
 			}
+			//===================================================//
+			//=== Fire bullet here ===//
+		// Fire a bullet
+			if (Mouse::isButtonPressed(sf::Mouse::Left))
+			{
+				if (gameTimeTotal.asMilliseconds()
+					- lastPressed.asMilliseconds()
+				> 1000 / fireRate && bulletsInClip > 0)
+				{
+					// pass the center of the player and the center
+					// of the cross hair to the shoot function
+					bullets[currentBullet].shoot(
+						player.getCenter().x, player.getCenter().y,
+						mouseWorldPosition.x, mouseWorldPosition.y);
+					currentBullet++;
+					if (currentBullet > 99)
+					{
+						currentBullet = 0;
+					}
+					lastPressed = gameTimeTotal;
+					bulletsInClip--;
+				} 
+			}// End of bullet fire
 		}// End WASD while playing
-
+		//===============================================================//
 		//=== HANDLE the LEVELING up STATE ===//
 		if (state == State::LEVELING_UP)
 		{
