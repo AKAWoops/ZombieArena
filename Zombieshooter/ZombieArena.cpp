@@ -463,6 +463,7 @@ int main()
 					}
 				}
 			}// end zombies being shot
+
 			/*
 			 *********************
 			 *COLLISION DETECTION*
@@ -484,6 +485,7 @@ int main()
 					}
 				}
 			}// End player touched
+
 			/*
 			 *********************
 			 *COLLISION DETECTION* ammo and health collision
