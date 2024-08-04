@@ -19,9 +19,9 @@ F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(32,23): warning C4244:   
 F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(32,23): warning C4244:         [
 F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(32,23): warning C4244:             T=float
 F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(32,23): warning C4244:         ]
-F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(511,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
-F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(511,50): warning C4244:         with
-F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(511,50): warning C4244:         [
-F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(511,50): warning C4244:             T=float
-F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(511,50): warning C4244:         ]
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(513,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(513,50): warning C4244:         with
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(513,50): warning C4244:         [
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(513,50): warning C4244:             T=float
+F:\GITKRAKEN\ZombieArena\Zombieshooter\ZombieArena.cpp(513,50): warning C4244:         ]
   Zombieshooter.vcxproj -> F:\GITKRAKEN\ZombieArena\Debug\Zombieshooter.exe
